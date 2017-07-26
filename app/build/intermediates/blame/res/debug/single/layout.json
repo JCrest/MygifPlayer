@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AndroidCode\\MygifPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\www.xml",
+        "source": "E:\\AndroidCode\\MygifPlayer\\app\\src\\main\\res\\layout\\www.xml"
+    },
+    {
+        "merged": "E:\\AndroidCode\\MygifPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\AndroidCode\\MygifPlayer\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
